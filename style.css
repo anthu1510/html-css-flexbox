@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  background-color: aqua;
+  height: 100vh;
+}
+
+.header-nav {
+  /* padding: 20px; */
+  text-decoration: none;
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  text-align: center;
+  align-items: center;
+}
